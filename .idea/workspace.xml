@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dc53658-27f6-45de-a4d8-827f6e33fba5" name="Default Changelist" comment="Guess the number game..">
-      <change afterPath="$PROJECT_DIR$/.idea/Python Jumpstart 10 Apps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+    <list default="true" id="3dc53658-27f6-45de-a4d8-827f6e33fba5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_World/Hello_World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello_World/Hello_World.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
     <favorites_list name="Python Jumpstart 10 Apps" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App2 - Guess that number game/guess_that_number_game.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -29,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hello_World/Hello_World.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+              <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -48,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hootbgib" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -59,16 +60,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
     <option name="y" value="22" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="width" value="2048" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -76,16 +77,27 @@
               <item name="Python Jumpstart 10 Apps" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Jumpstart 10 Apps" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python Jumpstart 10 Apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Jumpstart 10 Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="App2 - Guess that number game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Jumpstart 10 Apps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Jumpstart 10 Apps" type="462c0819:PsiDirectoryNode" />
+              <item name="Hello_World" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554399971755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Guess the number game..">
+      <created>1554400456240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554400456240</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -166,8 +185,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2048" height="1045" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.09916132" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4984326" visible="true" weight="0.12678836" />
       <window_info id="Structure" order="1" sideWeight="0.5015674" side_tool="true" weight="0.09916132" />
       <window_info id="Favorites" order="2" sideWeight="0.5015674" side_tool="true" weight="0.09916132" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -177,7 +197,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32948583" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32948583" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32948583" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32983193" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32983193" />
@@ -229,20 +249,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Guess the number game." />
     <MESSAGE value="added hi." />
-    <option name="LAST_COMMIT_MESSAGE" value="added hi." />
+    <MESSAGE value="Guess the number game.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Guess the number game.." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hello_World/Hello_World.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App2 - Guess that number game/guess_that_number_game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hello_World/Hello_World.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
